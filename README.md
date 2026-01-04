@@ -4,7 +4,7 @@
 
 My journey into cybersecurity began with a fascination for the 'Black Hat' world—the challenge, the anonymity, and the high-stakes game of **CMIYC** (Catch Me If You Can). While I have chosen the path of a defensive professional, I don't hide that this 'Black Hat' curiosity was my original driving force. It is what sparked my interest in how systems work and how they are broken.
 
-Today, I use that same 'Attacker Mindset' to build better defenses. **Spidy** represents my deep-dive into the complex web of the internet and its network architecture, protocols, and infrastructure. I keep this name as a reminder of where I started and as a promise to never lose that raw curiosity that keeps me pushing myself in this field.
+Today, I use that same 'Attacker Mindset' to build better defenses. **Spidy** represents my deep dive into the complex web of the internet, network architecture, protocols, and infrastructure. I keep this name as a reminder of where I started and as a promise to never lose that raw curiosity that keeps me pushing myself in this field.
 
 <h2>💻 Cybersecurity Projects & Home Labs:</h2>
 
