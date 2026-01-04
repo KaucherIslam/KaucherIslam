@@ -7,6 +7,9 @@
     
 <h2>🛜 Networking Projects and Home Labs:</h2>
 
+- <b>Network Simulation Using Cisco Packet Tracer:<b>
+  -  [Setting Up A Basic Home Network](https://github.com/CMIYC-Spidy/Cisco-Packet-Tracer)  
+
 <h2> 📃 Professional Certificates:</h2>
 
 - <b>From Coursera (Google):</b>
