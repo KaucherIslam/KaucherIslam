@@ -19,7 +19,7 @@ Today, I use that same 'Attacker Mindset' to build better defenses. **Spidy** re
 <h2>🖥️ System Administration & Infrastructure Projects:</h2>
 
 - <b>Linux System Administration & Environment Hardening:<b>
-  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/CMIYC-Spidy/Headless-Linux-Server-Installation-and-Provisioning)
+  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/CMIYC-Spidy/Headless-Ubuntu-Server-Installation-and-Provisioning)
   -  [CLI Environment Customization (Zsh & Powerlevel10k)](https://github.com/CMIYC-Spidy/CLI-Environment-Customization-Zsh-and-Powerlevel10k)
   -  [Host-Based Hardening & Secure SSH Access](https://github.com/CMIYC-Spidy/Host-Based-Hardening-Secure-SSH-Access)
 
