@@ -11,12 +11,12 @@ I keep the persona **CMIYC Spidy** as a reminder of where I started and as a pro
 <h2>💻 Cybersecurity Projects & Home Labs:</h2>
 
 - <b>Security Information and Event Management:</b>
-  - [SIEM Setup And Configuration](https://github.com/CMIYC-Spidy/SIEM-Setup-And-Configuration)
+  - [SIEM Setup And Configuration (In-process)](https://github.com/CMIYC-Spidy/SIEM-Setup-And-Configuration)
     
 <h2>🛜 Networking Projects & Home Labs:</h2>
 
 - <b>Network Simulation Using Cisco Packet Tracer:<b>
-  -  [Setting Up A Basic Home Network](https://github.com/CMIYC-Spidy/Cisco-Packet-Tracer)  
+  -  [Setting Up Industrial Network Architecture: Multi-Department Segmentation and Access Control (Currently working)]([https://github.com/CMIYC-Spidy/Cisco-Packet-Tracer](https://github.com/CMIYC-Spidy/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation-and-Access-Control))  
 
 <h2>🖥️ System Administration & Infrastructure Projects:</h2>
 
