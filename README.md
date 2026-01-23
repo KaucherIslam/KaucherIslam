@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Aspiring Cybersecurity Professional</a>
 
-<h2>ℹ️ Professional Summary:</b> </h2>
+<h2>⚙️ Professional Summary:</b> </h2>
 
 I am a technical specialist focused on the intersection of infrastructure management and defensive security. I operate on the principle that effective security is built on a deep, functional understanding of the underlying IT systems. My work is dedicated to building environments that are both operationally efficient and resilient against modern threats.
 
@@ -32,11 +32,14 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 
 <h2> 📃 Professional Certificates:</h2>
 
-- <b>From Coursera (Google):</b>
+- <b>From Google Career Certificates (via Coursera):</b>
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
   - [Google AI Essentials](https://coursera.org/verify/specialization/J9GKWGETYHZD)
-  - Google Cybersecurity (In-Progress)
+  - Google Cybersecurity (In-Progress: Expected Within March 2026)
+
+- <b>From CompTIA:</b>
+  - Security+ SYO-701 (Expected In July 2026)
 
 - <b>From ISC2:</b>
-  - ISC2 Certified in Cybersecurity (In-Progress)
+  - ISC2 Certified in Cybersecurity (Exam date: --/06/2026)
 
