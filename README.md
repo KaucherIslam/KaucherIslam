@@ -17,8 +17,13 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 - <b>Threat Detection & Data Analysis:</b>
   - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
   - [SQL Security Analysis: Incident Investigation & Asset Management](https://github.com/KaucherIslam/SQL-Security-Analysis-Incident-Investigation-and-Asset-Management/blob/main/README.md)
+
+ - <b> Security 
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
+
+- <b>Automated Security Engineering & Tool Development:</b>
+  - [ShadowSwitch: Universal Linux Anonymity & Identity Masking Dashboard](https://github.com/KaucherIslam/ShadowSwitch)
 
 - <b>Network Simulation Using Cisco Packet Tracer:</b>
   - [Setting Up Industrial Network Architecture: Multi-Department Segmentation](https://github.com/KaucherIslam/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation/blob/main/README.md)
