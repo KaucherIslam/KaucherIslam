@@ -17,8 +17,6 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 - <b>Threat Detection & Data Analysis:</b>
   - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
   - [SQL Security Analysis: Incident Investigation & Asset Management](https://github.com/KaucherIslam/SQL-Security-Analysis-Incident-Investigation-and-Asset-Management/blob/main/README.md)
-
- - <b> Security 
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
 
