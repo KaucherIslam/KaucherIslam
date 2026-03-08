@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Aspiring Cybersecurity Professional</a>
+<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT & Cybersecurity Professional</a>
 
 <h2>⚙️ Professional Summary:</b> </h2>
 
@@ -37,9 +37,8 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2> 📃 Professional Certificates:</h2>
 
 - <b>From Google Career Certificates (via Coursera):</b>
+  - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
-  - [Google AI Essentials](https://coursera.org/verify/specialization/J9GKWGETYHZD)
-  - Google Cybersecurity (In-Progress: Expected Within March 2026)
 
 - <b>From CompTIA:</b>
   - Security+ SYO-701 (Expected In July 2026)
