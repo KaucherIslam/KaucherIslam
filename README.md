@@ -34,18 +34,13 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
   -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization/blob/main/README.md)
   -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access/blob/main/README.md)
 
-<h2> 📃Education & Professional Certificates:</h2>
+<h2>📜 Education & Professional Certificates:</h2>
 
-- <b>From University Of The People:<b>
-  - [Associate of Science in Computer Science (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
+- <b>Degree:<b>
+  - [A.S in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
 
-- <b>From Google Career Certificates (via Coursera):</b>
+- <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
-
-- <b>From CompTIA:</b>
-  - Security+ SYO-701 (Expected In July 2026)
-
-- <b>From ISC2:</b>
+  - CompTIA Security+ SYO-701 (Expected In July 2026)
   - ISC2 Certified in Cybersecurity (Exam date: --/06/2026)
-
