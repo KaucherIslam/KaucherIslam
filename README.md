@@ -34,7 +34,10 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
   -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization/blob/main/README.md)
   -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access/blob/main/README.md)
 
-<h2> 📃 Professional Certificates:</h2>
+<h2> 📃Education & Professional Certificates:</h2>
+
+- <b>From University Of The People:<b>
+  - [Associate of Science in Computer Science (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
 
 - <b>From Google Career Certificates (via Coursera):</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
