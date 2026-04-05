@@ -38,7 +38,7 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2>📜 Education & Professional Certificates:</h2>
 
 - <b>Degree:<b>
-  - [A.S in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
+  - [B.S in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
 
 - <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
