@@ -15,9 +15,13 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2>💻 SOC Operations & Defensive Security Labs:</h2>
 
 - <b>Threat Detection & Data Analysis:</b>
-  - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
   - [SQL Security Analysis: Incident Investigation & Asset Management](https://github.com/KaucherIslam/SQL-Security-Analysis-Incident-Investigation-and-Asset-Management/blob/main/README.md)
   - [Network Intrusion Forensics: Redline Stealer Traffic Analysis](https://github.com/KaucherIslam/Network-Intrusion-Forensics-Redline-Stealer-Traffic-Analysis/blob/main/README.md)
+    
+- <b>SEIM Engineering & Log Analysis:</b>
+  - [Proactive Defense: SIEM Deployment & Asset Risk Management with Wazuh](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
+  - [SIEM Log Engineering: Building and Troubleshooting a High-Fidelity Data Pipeline in Wazuh]()
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ []()
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
 
@@ -38,7 +42,7 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2>📜 Education & Professional Certificates:</h2>
 
 - <b>Degree:<b>
-  - [B.S in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
+  - [B.Sc in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
 
 - <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
