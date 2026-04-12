@@ -20,7 +20,7 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
     
 - <b>SEIM Engineering & Log Analysis:</b>
   - [Proactive Defense: SIEM Deployment & Asset Risk Management with Wazuh](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
-  - [SIEM Log Engineering: Building and Troubleshooting a High-Fidelity Data Pipeline in Wazuh]()
+  - [SIEM Log Engineering: Building and Troubleshooting a High-Fidelity Data Pipeline in Wazuh](https://github.com/KaucherIslam/SIEM-Log-Engineering-Building-and-Troubleshooting-a-High-Fidelity-Data-Pipeline-in-Wazuh/blob/main/README.md)
     <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ []()
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
