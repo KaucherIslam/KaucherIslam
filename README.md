@@ -47,5 +47,8 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 - <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
-  - CompTIA Security+ SYO-701 (Expected In July 2026)
+  - CompTIA Security+ SYO-701 (Expected In Late 2026)
   - ISC2 Certified in Cybersecurity (Exam date: --/06/2026)
+ 
+- <b>Professional Tranning</b>
+  - [Cisco Certified Network Associate (In-progress) from AIUB Institute of Continuing Education](https://ice.aiub.edu/course/offers/112/ccna-batch-332)  
